@@ -1,0 +1,354 @@
+{
+    "Proucts": [
+        {
+            "link": "product_1",
+            "Name": "Product 1",
+            "Id": 1,
+            "title": "The product",
+            "mainfeatures": [
+                "Netflix|Disney+Hotstar|Youtube",
+                "Operating System: Tizen",
+                "HD Ready 1366 x 768 Pixels",
+                "20 W Speaker Output",
+                "60 Hz Refresh Rate",
+                "2 x HDMI | 1 x USB",
+                "1 Year Comprehensive Warranty on Product and 1 Year Additional warranty on Panel"
+            ],
+            "Specifications": {
+                "General": {
+                    "Brand": "Whirlpool",
+                    "Model Name": "1.5T MAGICOOL CONVERT PRO 5S INV (N)-O/I",
+                    "Type": "Split",
+                    "Color": "White"
+                },
+                "Dimensions": {
+                    "Indoor W x H x D": "100 cm x 29.5 cm x 23 cm",
+                    "Indoor Unit Weight": "11 kg"
+                },
+                "Performance Features": {
+                    "Indoor Noise Level Low": "35 dB",
+                    "Indoor Temperature Indicator": "Yes"
+                },
+                "Air Flow & Filter Features": {
+                    "Auto Air Swing": "Yes",
+                    "Anti-bacteria Filter": "No"
+                }
+            }
+        },
+        {
+            "link": "product_2",
+            "Name": "Product 2",
+            "Id": 2,
+            "title": "The product",
+            "mainfeatures": [
+                "Netflix|Disney+Hotstar|Youtube",
+                "Operating System: Tizen",
+                "HD Ready 1366 x 768 Pixels",
+                "20 W Speaker Output",
+                "60 Hz Refresh Rate",
+                "2 x HDMI | 1 x USB",
+                "1 Year Comprehensive Warranty on Product and 1 Year Additional warranty on Panel"
+            ],
+            "Specifications": {
+                "General": {
+                    "Brand": "Whirlpool",
+                    "Model Name": "1.5T MAGICOOL CONVERT PRO 5S INV (N)-O/I",
+                    "Type": "Split",
+                    "Color": "White"
+                },
+                "Dimensions": {
+                    "Indoor W x H x D": "100 cm x 29.5 cm x 23 cm",
+                    "Indoor Unit Weight": "11 kg"
+                },
+                "Performance Features": {
+                    "Indoor Noise Level Low": "35 dB",
+                    "Indoor Temperature Indicator": "Yes"
+                },
+                "Air Flow & Filter Features": {
+                    "Auto Air Swing": "Yes",
+                    "Anti-bacteria Filter": "No"
+                }
+            }
+        },
+        {
+            "link": "product_3",
+            "Name": "Product 3",
+            "Id": 3,
+            "title": "The product",
+            "mainfeatures": [
+                "Netflix|Disney+Hotstar|Youtube",
+                "Operating System: Tizen",
+                "HD Ready 1366 x 768 Pixels",
+                "20 W Speaker Output",
+                "60 Hz Refresh Rate",
+                "2 x HDMI | 1 x USB",
+                "1 Year Comprehensive Warranty on Product and 1 Year Additional warranty on Panel"
+            ],
+            "Specifications": {
+                "General": {
+                    "Brand": "Whirlpool",
+                    "Model Name": "1.5T MAGICOOL CONVERT PRO 5S INV (N)-O/I",
+                    "Type": "Split",
+                    "Color": "White"
+                },
+                "Dimensions": {
+                    "Indoor W x H x D": "100 cm x 29.5 cm x 23 cm",
+                    "Indoor Unit Weight": "11 kg"
+                },
+                "Performance Features": {
+                    "Indoor Noise Level Low": "35 dB",
+                    "Indoor Temperature Indicator": "Yes"
+                },
+                "Air Flow & Filter Features": {
+                    "Auto Air Swing": "Yes",
+                    "Anti-bacteria Filter": "No"
+                }
+            }
+        },
+        {
+            "link": "product_4",
+            "Name": "Product 4",
+            "Id": 4,
+            "title": "The product",
+            "mainfeatures": [
+                "Netflix|Disney+Hotstar|Youtube",
+                "Operating System: Tizen",
+                "HD Ready 1366 x 768 Pixels",
+                "20 W Speaker Output",
+                "60 Hz Refresh Rate",
+                "2 x HDMI | 1 x USB",
+                "1 Year Comprehensive Warranty on Product and 1 Year Additional warranty on Panel"
+            ],
+            "Specifications": {
+                "General": {
+                    "Brand": "Whirlpool",
+                    "Model Name": "1.5T MAGICOOL CONVERT PRO 5S INV (N)-O/I",
+                    "Type": "Split",
+                    "Color": "White"
+                },
+                "Dimensions": {
+                    "Indoor W x H x D": "100 cm x 29.5 cm x 23 cm",
+                    "Indoor Unit Weight": "11 kg"
+                },
+                "Performance Features": {
+                    "Indoor Noise Level Low": "35 dB",
+                    "Indoor Temperature Indicator": "Yes"
+                },
+                "Air Flow & Filter Features": {
+                    "Auto Air Swing": "Yes",
+                    "Anti-bacteria Filter": "No"
+                }
+            }
+        },
+        {
+            "link": "product_5",
+            "Name": "Product 5",
+            "Id": 5,
+            "title": "The product",
+            "mainfeatures": [
+                "Netflix|Disney+Hotstar|Youtube",
+                "Operating System: Tizen",
+                "HD Ready 1366 x 768 Pixels",
+                "20 W Speaker Output",
+                "60 Hz Refresh Rate",
+                "2 x HDMI | 1 x USB",
+                "1 Year Comprehensive Warranty on Product and 1 Year Additional warranty on Panel"
+            ],
+            "Specifications": {
+                "General": {
+                    "Brand": "Whirlpool",
+                    "Model Name": "1.5T MAGICOOL CONVERT PRO 5S INV (N)-O/I",
+                    "Type": "Split",
+                    "Color": "White"
+                },
+                "Dimensions": {
+                    "Indoor W x H x D": "100 cm x 29.5 cm x 23 cm",
+                    "Indoor Unit Weight": "11 kg"
+                },
+                "Performance Features": {
+                    "Indoor Noise Level Low": "35 dB",
+                    "Indoor Temperature Indicator": "Yes"
+                },
+                "Air Flow & Filter Features": {
+                    "Auto Air Swing": "Yes",
+                    "Anti-bacteria Filter": "No"
+                }
+            }
+        },
+        {
+            "link": "product_6",
+            "Name": "Product 6",
+            "Id": 6,
+            "title": "The product",
+            "mainfeatures": [
+                "Netflix|Disney+Hotstar|Youtube",
+                "Operating System: Tizen",
+                "HD Ready 1366 x 768 Pixels",
+                "20 W Speaker Output",
+                "60 Hz Refresh Rate",
+                "2 x HDMI | 1 x USB",
+                "1 Year Comprehensive Warranty on Product and 1 Year Additional warranty on Panel"
+            ],
+            "Specifications": {
+                "General": {
+                    "Brand": "Whirlpool",
+                    "Model Name": "1.5T MAGICOOL CONVERT PRO 5S INV (N)-O/I",
+                    "Type": "Split",
+                    "Color": "White"
+                },
+                "Dimensions": {
+                    "Indoor W x H x D": "100 cm x 29.5 cm x 23 cm",
+                    "Indoor Unit Weight": "11 kg"
+                },
+                "Performance Features": {
+                    "Indoor Noise Level Low": "35 dB",
+                    "Indoor Temperature Indicator": "Yes"
+                },
+                "Air Flow & Filter Features": {
+                    "Auto Air Swing": "Yes",
+                    "Anti-bacteria Filter": "No"
+                }
+            }
+        },
+        {
+            "link": "product_7",
+            "Name": "Product 7",
+            "Id": 7,
+            "title": "The product",
+            "mainfeatures": [
+                "Netflix|Disney+Hotstar|Youtube",
+                "Operating System: Tizen",
+                "HD Ready 1366 x 768 Pixels",
+                "20 W Speaker Output",
+                "60 Hz Refresh Rate",
+                "2 x HDMI | 1 x USB",
+                "1 Year Comprehensive Warranty on Product and 1 Year Additional warranty on Panel"
+            ],
+            "Specifications": {
+                "General": {
+                    "Brand": "Whirlpool",
+                    "Model Name": "1.5T MAGICOOL CONVERT PRO 5S INV (N)-O/I",
+                    "Type": "Split",
+                    "Color": "White"
+                },
+                "Dimensions": {
+                    "Indoor W x H x D": "100 cm x 29.5 cm x 23 cm",
+                    "Indoor Unit Weight": "11 kg"
+                },
+                "Performance Features": {
+                    "Indoor Noise Level Low": "35 dB",
+                    "Indoor Temperature Indicator": "Yes"
+                },
+                "Air Flow & Filter Features": {
+                    "Auto Air Swing": "Yes",
+                    "Anti-bacteria Filter": "No"
+                }
+            }
+        },
+        {
+            "link": "product_8",
+            "Name": "Product 8",
+            "Id": 8,
+            "title": "The product",
+            "mainfeatures": [
+                "Netflix|Disney+Hotstar|Youtube",
+                "Operating System: Tizen",
+                "HD Ready 1366 x 768 Pixels",
+                "20 W Speaker Output",
+                "60 Hz Refresh Rate",
+                "2 x HDMI | 1 x USB",
+                "1 Year Comprehensive Warranty on Product and 1 Year Additional warranty on Panel"
+            ],
+            "Specifications": {
+                "General": {
+                    "Brand": "Whirlpool",
+                    "Model Name": "1.5T MAGICOOL CONVERT PRO 5S INV (N)-O/I",
+                    "Type": "Split",
+                    "Color": "White"
+                },
+                "Dimensions": {
+                    "Indoor W x H x D": "100 cm x 29.5 cm x 23 cm",
+                    "Indoor Unit Weight": "11 kg"
+                },
+                "Performance Features": {
+                    "Indoor Noise Level Low": "35 dB",
+                    "Indoor Temperature Indicator": "Yes"
+                },
+                "Air Flow & Filter Features": {
+                    "Auto Air Swing": "Yes",
+                    "Anti-bacteria Filter": "No"
+                }
+            }
+        },
+        {
+            "link": "product_9",
+            "Name": "Product 9",
+            "Id": 9,
+            "title": "The product",
+            "mainfeatures": [
+                "Netflix|Disney+Hotstar|Youtube",
+                "Operating System: Tizen",
+                "HD Ready 1366 x 768 Pixels",
+                "20 W Speaker Output",
+                "60 Hz Refresh Rate",
+                "2 x HDMI | 1 x USB",
+                "1 Year Comprehensive Warranty on Product and 1 Year Additional warranty on Panel"
+            ],
+            "Specifications": {
+                "General": {
+                    "Brand": "Whirlpool",
+                    "Model Name": "1.5T MAGICOOL CONVERT PRO 5S INV (N)-O/I",
+                    "Type": "Split",
+                    "Color": "White"
+                },
+                "Dimensions": {
+                    "Indoor W x H x D": "100 cm x 29.5 cm x 23 cm",
+                    "Indoor Unit Weight": "11 kg"
+                },
+                "Performance Features": {
+                    "Indoor Noise Level Low": "35 dB",
+                    "Indoor Temperature Indicator": "Yes"
+                },
+                "Air Flow & Filter Features": {
+                    "Auto Air Swing": "Yes",
+                    "Anti-bacteria Filter": "No"
+                }
+            }
+        },
+        {
+            "link": "product_10",
+            "Name": "Product 10",
+            "Id": 10,
+            "title": "The product",
+            "mainfeatures": [
+                "Netflix|Disney+Hotstar|Youtube",
+                "Operating System: Tizen",
+                "HD Ready 1366 x 768 Pixels",
+                "20 W Speaker Output",
+                "60 Hz Refresh Rate",
+                "2 x HDMI | 1 x USB",
+                "1 Year Comprehensive Warranty on Product and 1 Year Additional warranty on Panel"
+            ],
+            "Specifications": {
+                "General": {
+                    "Brand": "Whirlpool",
+                    "Model Name": "1.5T MAGICOOL CONVERT PRO 5S INV (N)-O/I",
+                    "Type": "Split",
+                    "Color": "White"
+                },
+                "Dimensions": {
+                    "Indoor W x H x D": "100 cm x 29.5 cm x 23 cm",
+                    "Indoor Unit Weight": "11 kg"
+                },
+                "Performance Features": {
+                    "Indoor Noise Level Low": "35 dB",
+                    "Indoor Temperature Indicator": "Yes"
+                },
+                "Air Flow & Filter Features": {
+                    "Auto Air Swing": "Yes",
+                    "Anti-bacteria Filter": "No"
+                }
+            }
+        }
+    ]
+}
